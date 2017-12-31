@@ -1,0 +1,34 @@
+@relation test2
+
+@attribute 0 numeric
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 3 numeric
+@attribute 4 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute emotion {SUPRISED,SAD,NEUTRAL}
+
+@data
+1,1,0,1,3,1,0,1,SUPRISED
+2,0,1,0,1,1,2,1,SAD
+0,0,1,2,1,0,2,2,SAD
+0,1,0,2,3,0,0,2,SUPRISED
+0,0,1,2,3,0,1,1,SAD
+0,0,1,2,3,0,1,1,SAD
+0,1,1,0,3,2,0,1,SUPRISED
+0,3,1,0,4,0,0,0,SUPRISED
+0,2,1,0,2,1,0,2,SUPRISED
+0,1,2,1,2,0,0,2,SUPRISED
+0,1,1,0,1,3,0,2,NEUTRAL
+0,1,1,0,1,2,0,3,NEUTRAL
+0,0,1,0,3,1,0,3,SUPRISED
+0,1,1,0,2,1,0,3,SUPRISED
+0,1,1,0,3,0,0,3,SUPRISED
+0,1,1,1,3,0,0,2,SUPRISED
+0,1,1,0,4,2,0,0,SUPRISED
+0,0,2,1,4,0,0,1,SUPRISED
+0,0,1,2,1,0,0,4,SUPRISED
+0,1,0,2,2,1,0,2,SUPRISED
+0,1,1,1,4,1,0,0,SUPRISED
