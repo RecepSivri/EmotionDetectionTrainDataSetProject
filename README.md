@@ -1,4 +1,4 @@
-#EmotionDetectionTrainDataSetProject
+#EmotionDetectionTrainDataSetProject#
 * This project is part of my graduation project which is Emotion detection from human facial expression.
 * I train system using jaffe data set.
 *  Use weka project to train system.
